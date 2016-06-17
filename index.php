@@ -6,4 +6,4 @@
  * Time: 11:33
  */
 
-echo '<h1>This is a test index fil e</h1>';
+echo '<h1>This is a test index fil e After making a changes on server.</h1>';
